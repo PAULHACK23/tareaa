@@ -1,0 +1,22 @@
+.container{
+    border: rgb(4, 68, 13) 10px solid;
+    border-radius: 20px;
+    text-align: center;
+    width: 450px;
+    background-color: rgb(172, 170, 170);
+    font-size: 20px  ;
+   
+}
+.nombre{
+    color: #fff;
+}
+    
+    .trabajo{
+        color: #fff;
+    }
+
+    
+    .edad{
+        color: #fff
+    }
+
